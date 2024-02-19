@@ -1,0 +1,6 @@
+import io.netty.handler.traffic.GlobalTrafficShapingHandler;
+public class FunctionUse960 {
+public void funcUse() {
+GlobalTrafficShapingHandler globaltrafficshapinghandler = new GlobalTrafficShapingHandler();
+}
+}
